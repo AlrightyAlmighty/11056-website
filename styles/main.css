@@ -1,0 +1,30 @@
+body {
+    background:#635;
+    font-family: arial;
+}
+
+h1, h2 {
+    color: #999;
+    text-align: center;
+}
+
+li {
+    color: greenyellow;
+}
+
+p {
+    background: #700;
+    color: white;    
+    padding: 100px 80px 50px 30px;
+    font-size: 200%;
+}
+
+#first {
+    background: red;
+    colour: #999;
+}
+
+main section.second {
+    background: none;
+    color: green;
+}
